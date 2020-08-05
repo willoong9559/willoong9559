@@ -1,0 +1,22 @@
+<svg width="495" height="170" viewBox="0 0 495 170" fill="none" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <clipPath id="avatar">
+            <rect x="25px" y="35px" width="100px" height="100px" rx="100px"/>
+        </clipPath>
+    </defs>
+    <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="494" fill="#fffefe" stroke-opacity="1"/>
+    <image width="100%" height="166px" x="96px" y="1px" href="https://api.paugram.com/wallpaper/"/>
+    <image x="25px" y="35px" width="100px" height="100px" clip-path="url(#avatar)"
+           href="https://avatars1.githubusercontent.com/u/5052848?s=460&amp;u=d49cf6bd0972dea35c1ea8dce7f956cc78d88481&amp;v=4"/>
+    <text x="140" y="60" fill="#555555" font-size="24px">IvanLuLyf</text>
+    <text x="140" y="85" fill="#999999" font-size="14px">Join Github for -- years</text>
+    <image height="20px" width="18px" x="240px" y="70px"
+           href="https://badges.pufler.dev/years/IvanLuLyf?style=flat-square&amp;label=&amp;color=blue"/>
+    <text x="140" y="105" fill="#999999" font-size="14px">Have --- repos now</text>
+    <image height="20px" width="24px" x="175px" y="90px"
+           href="https://badges.pufler.dev/repos/IvanLuLyf?style=flat-square&amp;label=&amp;color=blue"/>
+    <text x="140" y="125" fill="#999999" font-size="14px">Profile visits ---</text>
+    <image height="20px" width="24px" x="223px" y="110px"
+           href="https://badges.pufler.dev/visits/IvanLuLyf/IvanLuLyf?style=flat-square&amp;label=&amp;color=blue"/>
+</svg>
